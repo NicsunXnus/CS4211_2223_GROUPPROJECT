@@ -53,10 +53,10 @@ Tutor for soccer project: Rajdeep Singh Hundal <rajdeep@u.nus.edu>
 #### Group Members:
 Name | GithubPage
 --- | --- | 
-Khor Jun Wei | -
-Qin Guo Rui | -
+Khor Jun Wei | - https://github.com/KJunWei
+Qin Guo Rui | - https://github.com/qinguorui2001
 Sun Jun Yang Nicholas | https://github.com/NicsunXnus
-Zou Zhixuan | -
+Zou Zhixuan | - https://github.com/zzou19
 
 ### Instructions to use
 Please go to the readme text files of each Model
